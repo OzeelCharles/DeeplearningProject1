@@ -20,7 +20,7 @@ Ce projet a été conçu pour servir de bac à sable (playground) visuel. Il per
 - **Paramétrage en temps réel** : Modification de l'architecture du réseau de neurones à la volée.
 - **Dataviz avancée** : Graphiques générés avec Plotly (Histogrammes, courbes de loss, QQ-Plots).
 
-## 🛠️ Installation et Exécution en local
+## Installation et Exécution en local
 
 1. Clonez ce dépôt :
 ```bash
